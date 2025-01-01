@@ -1,1 +1,1 @@
-### BRN OTA Update
+### BRN OTA Update for Android
